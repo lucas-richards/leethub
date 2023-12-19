@@ -1,3 +1,3 @@
 # Leetcode problems
 ## Easy
-## Med
+## Medium
