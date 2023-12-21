@@ -1,6 +1,6 @@
 # Leetcode problems
 ## Easy
 sum numbers
-merged sorted 
+merged sorted arrays
 ## Medium
 ## Hard
