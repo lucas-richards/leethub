@@ -7,4 +7,5 @@ remove elements from sorted array
 majortiy element
 ## Medium
 remove elements from sorted array
+rotate
 ## Hard
