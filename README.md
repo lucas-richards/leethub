@@ -9,3 +9,4 @@ majortiy element
 remove elements from sorted array
 rotate array
 ## Hard
+rotate array
