@@ -10,3 +10,4 @@ remove elements from sorted array
 rotate array
 ## Hard
 rotate array
+rotate array 2
