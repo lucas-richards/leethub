@@ -14,3 +14,4 @@ rotate array 2
 rotate array 3
 rotate array 4
 rotate array 5
+rotate array 6
