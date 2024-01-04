@@ -10,8 +10,8 @@ remove elements from sorted array
 rotate array
 ## Hard
 rotate array
-rotate array 2
-rotate array 3
+binary Tree
+Find the max number
 rotate array 4
 rotate array 5
 rotate array 6
