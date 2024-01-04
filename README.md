@@ -10,7 +10,7 @@ remove elements from sorted array
 rotate array
 ## Hard
 rotate array
-binary Tree
+Binary Tree
 Find the max number
 rotate array 4
 rotate array 5
